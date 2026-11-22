@@ -159,7 +159,7 @@ namespace Infrastructure.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            string connStr = "Server=.;Database=HxYgbDb;Uid=sa;Pwd=850415;TrustServerCertificate=True;";
+            string connStr = "Server=.;Database=HxYgbDb;Uid=sa;Pwd=@mosyan850415;TrustServerCertificate=True;";
             optionsBuilder.UseSqlServer(connStr); // SqlServer 数据库
         }
     }
