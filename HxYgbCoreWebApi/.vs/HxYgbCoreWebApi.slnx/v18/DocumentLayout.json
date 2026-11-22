@@ -1,0 +1,1173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\context\\serilogdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\models\\serilogdemo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\models\\hxykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\models\\serilogdemo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\implementations\\oauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\ioauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\configuration\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\configuration\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\models\\tsalarydisclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\extensions\\aiservicecolletctionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\ai\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\592455e7c3e804c6c18d260597274b26f8e2ab69781ca89c60295350a6ca351f\\src\\aspnetcore\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\extensions\\rabbitmqextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\extensions\\serilogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\configuration\\redisconfiginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\redis\\redisbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\redis\\redismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\redis\\rediszsetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459946F7-AE0B-46A9-A875-FB4E6B0A71D5}|..\\ScaffoldData\\ScaffoldData.csproj|f:\\project\\c#\\hxygbcoreapi\\scaffolddata\\scaffolddata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:models\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\middleware\\customerexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:middleware\\customerexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\models\\exceptionextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:models\\exceptionextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\0221cfbd107bc3a3ed71f2510eacff85d4b31c3d16a07c31d2e0c00e89233981\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\c7e3462bc7924fed7290657ef30d835d5b10882d0cff881f6ffd8f48d456f21e\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|f:\\project\\c#\\hxygbcoreapi\\hxygbcorewebapi\\hxygbcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6632952F-045E-9FD1-2A48-8775690E742D}|HxYgbCoreWebApi.csproj|solutionrelative:hxygbcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\authorizationcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\revokedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\common\\helpers\\claimhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\userconsentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\scoperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\iuserconsentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\iscoperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\irevokedtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC551F-F97C-4E68-93A5-FCCFEBAC8D3F}|..\\Domain\\Domain.csproj|f:\\project\\c#\\hxygbcoreapi\\domain\\repositories\\iauthorizationcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\implementations\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\user\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\oauth\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\oauth\\jwksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\oauth\\jsonwebkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\oauth\\consentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\oauth\\authorizerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\client\\createclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\client\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C93464-01D8-434B-AB8B-BCA145953647}|..\\Application\\Application.csproj|f:\\project\\c#\\hxygbcoreapi\\application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3853EBEE-3541-42C6-AD1C-576A0583087B}|..\\Infrastructure\\Infrastructure.csproj|f:\\project\\c#\\hxygbcoreapi\\infrastructure\\configuration\\databasetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\cfd62aa0346a9051866e616c9a08eb2618da49a57513a0fb7aaca592b41ce60e\\src\\efcore\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:11:35.836Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T10:31:25.178Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerilogDemoContext.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Context\\SerilogDemoContext.cs",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\Context\\SerilogDemoContext.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Context\\SerilogDemoContext.cs",
+              "RelativeToolTip": "..\\ScaffoldData\\Context\\SerilogDemoContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:31:24.34Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.txt",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\readme.txt",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\readme.txt",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\readme.txt",
+              "RelativeToolTip": "..\\ScaffoldData\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-20T06:26:36.548Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\SerilogDemo\\User.cs",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\Models\\SerilogDemo\\User.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\SerilogDemo\\User.cs",
+              "RelativeToolTip": "..\\ScaffoldData\\Models\\SerilogDemo\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T09:33:15.15Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T07:00:50.319Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\SerilogDemo\\Log.cs",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\Models\\SerilogDemo\\Log.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\SerilogDemo\\Log.cs",
+              "RelativeToolTip": "..\\ScaffoldData\\Models\\SerilogDemo\\Log.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:30:15.563Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HxykContext.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\HxykContext.cs",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\Models\\HxykContext.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\HxykContext.cs",
+              "RelativeToolTip": "..\\ScaffoldData\\Models\\HxykContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:48:51.638Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwG0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:36:32.73Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\IAuthService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:06:20.322Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T11:08:08.44Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOAuthService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IOAuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\IOAuthService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IOAuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\IOAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:39:08.202Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ITokenService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\ITokenService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T06:51:44.552Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswHcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:40:53.917Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Configuration\\DatabaseSettings.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\DatabaseSettings.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Configuration\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T02:52:02.624Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OAuthService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\OAuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\Implementations\\OAuthService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\OAuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\Implementations\\OAuthService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAA4wHcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:49:35.432Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Configuration\\ConnectionStrings.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\ConnectionStrings.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Configuration\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T02:52:06.625Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "readme.txt",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\readme.txt",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\readme.txt",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\readme.txt",
+              "RelativeToolTip": "..\\Infrastructure\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-20T03:40:42.399Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TSalaryDisclosure.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\TSalaryDisclosure.cs",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\Models\\TSalaryDisclosure.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\Models\\TSalaryDisclosure.cs",
+              "RelativeToolTip": "..\\ScaffoldData\\Models\\TSalaryDisclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T03:30:33.763Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\AI\\ChatService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\AI\\ChatService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\AI\\ChatService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\AI\\ChatService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:18:29.624Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AIServiceColletctionExtensions.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\AIServiceColletctionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Extensions\\AIServiceColletctionExtensions.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\AIServiceColletctionExtensions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Extensions\\AIServiceColletctionExtensions.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:38:08.085Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\592455e7c3e804c6c18d260597274b26f8e2ab69781ca89c60295350a6ca351f\\src\\aspnetcore\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\592455e7c3e804c6c18d260597274b26f8e2ab69781ca89c60295350a6ca351f\\src\\aspnetcore\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAAAH8BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T02:29:18.826Z",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RabbitMqExtensions.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\RabbitMqExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Extensions\\RabbitMqExtensions.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\RabbitMqExtensions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Extensions\\RabbitMqExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:38:16.499Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SerilogExtensions.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\SerilogExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Extensions\\SerilogExtensions.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Extensions\\SerilogExtensions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Extensions\\SerilogExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T08:36:24.081Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RedisConfigInfo.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\RedisConfigInfo.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Configuration\\RedisConfigInfo.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\RedisConfigInfo.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Configuration\\RedisConfigInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAywBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T03:16:31.972Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RedisBase.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisBase.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Redis\\RedisBase.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisBase.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Redis\\RedisBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T08:25:00.53Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RedisManager.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisManager.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Redis\\RedisManager.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisManager.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Redis\\RedisManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T08:24:50.34Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RedisZSetService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisZSetService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Redis\\RedisZSetService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Redis\\RedisZSetService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Redis\\RedisZSetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T03:54:51.968Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldData.csproj",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\ScaffoldData.csproj",
+              "RelativeDocumentMoniker": "..\\ScaffoldData\\ScaffoldData.csproj",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\ScaffoldData\\ScaffoldData.csproj",
+              "RelativeToolTip": "..\\ScaffoldData\\ScaffoldData.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-29T03:11:09.482Z",
+              "EditorCaption": "",
+              "OwnerCaption": "ScaffoldData.csproj"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Models\\ResultModel.cs",
+              "RelativeDocumentMoniker": "Models\\ResultModel.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Models\\ResultModel.cs",
+              "RelativeToolTip": "Models\\ResultModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:45:26.189Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerExceptionMiddleware.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Middleware\\CustomerExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomerExceptionMiddleware.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Middleware\\CustomerExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\CustomerExceptionMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T01:56:49.275Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExceptionExtData.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Models\\ExceptionExtData.cs",
+              "RelativeDocumentMoniker": "Models\\ExceptionExtData.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Models\\ExceptionExtData.cs",
+              "RelativeToolTip": "Models\\ExceptionExtData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:33:35.885Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T03:44:28.664Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtBearerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\0221cfbd107bc3a3ed71f2510eacff85d4b31c3d16a07c31d2e0c00e89233981\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerHandler.cs",
+              "ToolTip": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\0221cfbd107bc3a3ed71f2510eacff85d4b31c3d16a07c31d2e0c00e89233981\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerHandler.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADgv9kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:36:31.42Z",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtBearerEvents.cs",
+              "DocumentMoniker": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\c7e3462bc7924fed7290657ef30d835d5b10882d0cff881f6ffd8f48d456f21e\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerEvents.cs",
+              "ToolTip": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\c7e3462bc7924fed7290657ef30d835d5b10882d0cff881f6ffd8f48d456f21e\\src\\aspnetcore\\src\\Security\\Authentication\\JwtBearer\\src\\JwtBearerEvents.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:20:53.476Z",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HxYgbCoreWebApi.http",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\HxYgbCoreWebApi.http",
+              "RelativeDocumentMoniker": "HxYgbCoreWebApi.http",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\HxYgbCoreWebApi\\HxYgbCoreWebApi.http",
+              "RelativeToolTip": "HxYgbCoreWebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-08T01:46:56.091Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClaimHelper.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Common\\Helpers\\ClaimHelper.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Common\\Helpers\\ClaimHelper.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Common\\Helpers\\ClaimHelper.cs",
+              "RelativeToolTip": "..\\Application\\Common\\Helpers\\ClaimHelper.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:41:37.557Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthorizationCodeRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\AuthorizationCodeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\AuthorizationCodeRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\AuthorizationCodeRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\AuthorizationCodeRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:49:34.998Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:13:55.292Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RevokedTokenRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\RevokedTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\RevokedTokenRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\RevokedTokenRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\RevokedTokenRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:14:21.047Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\User.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:14:01.95Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAMwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:49:58.579Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserConsentRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\UserConsentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserConsentRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\UserConsentRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserConsentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:15:02.91Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:15:18.329Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ScopeRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\ScopeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ScopeRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\ScopeRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ScopeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:14:40.353Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:13:31.111Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:59:41.033Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserConsentRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IUserConsentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IUserConsentRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IUserConsentRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IUserConsentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:59:30.375Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IScopeRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IScopeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IScopeRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IScopeRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IScopeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:59:19.982Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRevokedTokenRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IRevokedTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IRevokedTokenRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IRevokedTokenRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IRevokedTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:59:11.141Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IRefreshTokenRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:59:01.029Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IClientRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:58:50.789Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IAuthorizationCodeRepository.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IAuthorizationCodeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IAuthorizationCodeRepository.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Domain\\Repositories\\IAuthorizationCodeRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Repositories\\IAuthorizationCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:58:38.615Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\IUserService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:51:14.738Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\Implementations\\ClientService.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\Services\\Implementations\\ClientService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\Implementations\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:49:03.648Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:50Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\User\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\User\\ChangePasswordRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\User\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\User\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:43.551Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\OAuth\\TokenRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\TokenRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\OAuth\\TokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:35.393Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "JwksResponse.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\JwksResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\OAuth\\JwksResponse.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\JwksResponse.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\OAuth\\JwksResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:27.237Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "JsonWebKey.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\JsonWebKey.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\OAuth\\JsonWebKey.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\JsonWebKey.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\OAuth\\JsonWebKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:14.932Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ConsentRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\ConsentRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\OAuth\\ConsentRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\ConsentRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\OAuth\\ConsentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:08.887Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AuthorizeRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\AuthorizeRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\OAuth\\AuthorizeRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\OAuth\\AuthorizeRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\OAuth\\AuthorizeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:47:01.843Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateClientRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Client\\CreateClientRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Client\\CreateClientRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Client\\CreateClientRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Client\\CreateClientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:46:50.397Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Client\\ClientDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Client\\ClientDto.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Client\\ClientDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Client\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:45:21.091Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Auth\\TokenResponse.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Auth\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:45:10.471Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:44:59.141Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:44:52.464Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:44:44.05Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DatabaseType.cs",
+              "DocumentMoniker": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\DatabaseType.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Configuration\\DatabaseType.cs",
+              "ToolTip": "F:\\Project\\C#\\HxYgbCoreApi\\Infrastructure\\Configuration\\DatabaseType.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Configuration\\DatabaseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T02:52:05.467Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EntityFrameworkServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\cfd62aa0346a9051866e616c9a08eb2618da49a57513a0fb7aaca592b41ce60e\\src\\efcore\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\yanguobiao\\AppData\\Local\\SourceServer\\cfd62aa0346a9051866e616c9a08eb2618da49a57513a0fb7aaca592b41ce60e\\src\\efcore\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAHwEAAAAAAAAAAAhwIgEAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T10:22:56.765Z",
+              "OwnerCaption": "%3"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

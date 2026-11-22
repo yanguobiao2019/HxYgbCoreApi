@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=.;Database=SerilogDemo;user=.;password=850415;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/SerilogDemo -ContextDir Context -Context SerilogDemoContext

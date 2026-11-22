@@ -1,0 +1,3 @@
+1. dotnet ef dbcontext scaffold "Server=.;Database=HXYK;Trusted_Connection=True;TrustServerCertificate=true;User Id=sa;Password=850415" Microsoft.EntityFrameworkCore.SqlServer -o Models --force
+2.Scaffold-DbContext "Server=.;Database=HXYK;user=.;password=850415;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -ContextDir . -Context HxykContext
+报错:File 'F:\Project\C#\HxYgbCoreApi\HxYgbCoreWebApi\bin\Debug\net10.0\ScaffoldData.dll' not found.

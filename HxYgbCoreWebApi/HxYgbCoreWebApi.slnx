@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Application/Application.csproj" Id="41c93464-01d8-434b-ab8b-bca145953647" />
+  <Project Path="../Domain/Domain.csproj" Id="abcc551f-f97c-4e68-93a5-fccfebac8d3f" />
+  <Project Path="../HmsScaffoldData/HmsScaffoldData.csproj" Id="368c4d11-5a5d-45fd-89e9-89b93784bcbf" />
+  <Project Path="../Infrastructure/Infrastructure.csproj" Id="3853ebee-3541-42c6-ad1c-576a0583087b" />
+  <Project Path="../ScaffoldData/ScaffoldData.csproj" Id="459946f7-ae0b-46a9-a875-fb4e6b0a71d5" />
+  <Project Path="HxYgbCoreWebApi.csproj" />
+</Solution>

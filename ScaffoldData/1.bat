@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=.;Database=SerilogDemo;Trusted_Connection=True;TrustServerCertificate=true;User Id=sa;Password=850415"  Microsoft.EntityFrameworkCore.SqlServer  --output-dir Models/SerilogDemo --context-dir Context  --context SerilogDemoContext  --no-onconfiguring --force
